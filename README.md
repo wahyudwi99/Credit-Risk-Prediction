@@ -12,3 +12,6 @@ Whole dataset are already provided and i directly jump into data preprocessing. 
 After data are ready, i build model with classification approach. I used 4 model, logistic regression, decision tree classifier, random forest classifier, and k nearest neighbor. In this step, i evaluate model with cross validation method with up to 99%+ ROC score. After evaluation step, logistic regression show the best result.
 Here AUC ROC curve for logistic regression :
 
+<img src="Logistic_Regression_AUC_ROC_Curve.png" alt= “” width="400" height="300">
+
+
